@@ -1,6 +1,7 @@
 # FeynmanChat - AI Destekli Öğrenme Uygulaması
 
 Yapay Zeka ve Teknoloji Akademisi 2025 AI Jam Hackathon kapsamında Grup 24 tarafından geliştirilen **FeynmanChat**, karakter tabanlı etkileşimli bir öğrenme uygulamasıdır. Kullanıcılar; çocuk, üniversiteli ve profesör karakterleriyle konuşarak belirli bir konuda sadece sorular üzerinden derinlemesine düşünmeye teşvik edilir.
+[![Videoyu İzle](https://img.youtube.com/vi/R5u413OVk9o/maxresdefault.jpg)](https://youtu.be/R5u413OVk9o?si=BZUc_fw-STiADBXR)
 
 ## ✨ Özellikler
 
